@@ -1,0 +1,17 @@
+/.vs/
+/bin/
+/obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+TestResults/
+*.ncb
+*.cache
+*.ilk
+*.log
+*.obj
+*.pdb
+*.opendb
+*.sqlite
+.DS_Store
