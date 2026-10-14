@@ -1,5 +1,6 @@
 ﻿using linq1.DB;
-
+using Microsoft.EntityFrameworkCore;
+using using linq1.Models;
 
 namespace linq1
 {
